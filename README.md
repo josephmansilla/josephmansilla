@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey hello!! My name is Joseph Mansilla :)<br><br>I'm a university student at UTN FRBA (Argentina, Buenos AIres) studying systems engineering.<br><br>I'm American born, but raised in Argentina, which has lead me to be fluent in both languages. Also, I'm in a journey to better my Portuguese. <br><br>Currently looking forward to take part in new opportunities, such as exchanges, tutoring and projects.<br><br>Always open to talk, for inquires refer to any of my social media or email.<br>
+🏠 Hey hello!! My name is Joseph Mansilla and I'm currently living in Argentina.<br><br>💻👾 I'm a university student at UTN FRBA (Argentina, Buenos Aires) studying systems engineering.<br><br>🛂 I'm American born, but raised in Argentina, which has lead me to be fluent in both languages. Also, I'm in a journey to better my Portuguese. <br><br>👥💭 Currently looking forward to take part in new opportunities, such as exchanges, tutoring and projects.<br><br>🤝 Always open to talk, for inquires refer to any of my social media or email.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jomansilla@frba.utn.edu.ar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josephthomansilla/) 
