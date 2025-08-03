@@ -8,15 +8,11 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmansilla&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=josephmansilla&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmansilla&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=donut&hide=C&size_weight=0.5&count_weight=0.5&langs_count=7)
+![](https://nirzak-streak-stats.vercel.app/?user=josephmansilla&theme=radical&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
-**josephmansilla/josephmansilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 STATS PARA PERFIL PUBLICO ![](https://github-readme-stats.vercel.app/api?username=josephmansilla&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/josephmansilla.bsky.social)
--->
