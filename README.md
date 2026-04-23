@@ -8,6 +8,7 @@
 ![Scala](https://img.shields.io/badge/scala-000?&logo=scala&logoColor=23DC322F)
 ![Ruby](https://img.shields.io/badge/ruby-000?&logo=ruby&logoColor=23CC342D)
 ![Haskell](https://img.shields.io/badge/Haskell-000?&logo=haskell&logoColor=5e5086)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
@@ -21,7 +22,10 @@
 ### Socials
 [![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
-![Substack](https://img.shields.io/badge/Substack-000.svg?&logo=substack&logoColor=23006f5c)
 [![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
-![Linktree](https://img.shields.io/badge/linktree-000?&logo=linktree&logoColor=1de9b6)
+[![Gmail](https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836)](mailto:mansillajoseph@gmail.com)
 
+
+
+[//]:<![Substack](https://img.shields.io/badge/Substack-000.svg?&logo=substack&logoColor=23006f5c)>
+[//]: <![Linktree](https://img.shields.io/badge/linktree-000?&logo=linktree&logoColor=1de9b6)>
