@@ -20,10 +20,10 @@
 ![Express.js](https://img.shields.io/badge/express.js-000.svg?&logo=express&logoColor=%23404d59)
 
 ### Socials
-[![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
-[![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
 [![Gmail](https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836)](mailto:mansillajoseph@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
+[![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
+[![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
 
 
 
