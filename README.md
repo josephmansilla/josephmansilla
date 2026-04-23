@@ -1,20 +1,28 @@
+<img width="1280" height="193" alt="gif" src="https://github.com/user-attachments/assets/726681f9-aba0-48d6-b0be-12259d613a97" />
 
-# 💫 About Me:
-💻👾 Hello there! My name is Joseph Mansilla and I'm studying systems engineering at UTN FRBA (Argentina, Buenos Aires). <br><br>🛂 I'm an American born citizen, but raised and currently living in Argentina, which has lead me to be fluent in both languages. Also, I'm in a journey to better my Portuguese. <br><br>👥💭 Currently looking forward to take part in new opportunities, such as exchanges, tutoring opportunities, projects, and more. <br><br>🤝 Always open to talk, for inquires contact me through any of my emails or social media.<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josephthomansilla/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/873689768309977239) [![Personal email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephmnslla@gmail.com) [![institutional email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jomansilla@frba.utn.edu.ar) 
-###### (Personal and Institutional Email respectively)
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+### Languages
+![Java](https://img.shields.io/badge/Java-000.svg?&logo=openjdk&logoColor=23ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Go](https://img.shields.io/badge/go-000.svg?&logo=go&logoColor=2300ADD8)
+![Scala](https://img.shields.io/badge/scala-000?&logo=scala&logoColor=23DC322F)
+![Ruby](https://img.shields.io/badge/ruby-000?&logo=ruby&logoColor=23CC342D)
+![Haskell](https://img.shields.io/badge/Haskell-000?&logo=haskell&logoColor=5e5086)
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmansilla&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=donut&hide=C&size_weight=0.5&count_weight=0.5&langs_count=6)
-![](https://nirzak-streak-stats.vercel.app/?user=josephmansilla&theme=radical&hide_border=false)<br/>
+### Technologies
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-000?&logo=Hibernate&logoColor=0000)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?&logo=mongodb&logoColor=234ea94b)
+![MySQL](https://img.shields.io/badge/mysql-000.svg?&logo=mysql&logoColor=4479A1)
+![Express.js](https://img.shields.io/badge/express.js-000.svg?&logo=express&logoColor=%23404d59)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-
-STATS PARA PERFIL PUBLICO ![](https://github-readme-stats.vercel.app/api?username=josephmansilla&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
+### Socials
+[![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
+![Substack](https://img.shields.io/badge/Substack-000.svg?&logo=substack&logoColor=23006f5c)
+[![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
+![Linktree](https://img.shields.io/badge/linktree-000?&logo=linktree&logoColor=1de9b6)
 
