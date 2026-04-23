@@ -1,5 +1,4 @@
-<img width="1280" height="193" alt="gif" src="https://github.com/user-attachments/assets/726681f9-aba0-48d6-b0be-12259d613a97" />
-
+<img width="3156" height="480" alt="gif" src="https://github.com/user-attachments/assets/e229c66b-3e41-4d32-950e-a54d675e2a56" />
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-000.svg?&logo=openjdk&logoColor=23ED8B00)
