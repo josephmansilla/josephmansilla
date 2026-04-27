@@ -25,7 +25,7 @@
 [![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
 [![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
 
-
+#### Open to new opportunities to grow in the field, whether in Spanish, English, or Portuguese
 
 [//]:<![Substack](https://img.shields.io/badge/Substack-000.svg?&logo=substack&logoColor=23006f5c)>
 [//]: <![Linktree](https://img.shields.io/badge/linktree-000?&logo=linktree&logoColor=1de9b6)>
