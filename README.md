@@ -3,7 +3,7 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-000.svg?&logo=openjdk&logoColor=23ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mySQL)
 ![Go](https://img.shields.io/badge/go-000.svg?&logo=go&logoColor=2300ADD8)
 ![Scala](https://img.shields.io/badge/scala-000?&logo=scala&logoColor=23DC322F)
 ![Ruby](https://img.shields.io/badge/ruby-000?&logo=ruby&logoColor=23CC342D)
@@ -22,8 +22,6 @@
 ### Socials
 [![Gmail](https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836)](mailto:mansillajoseph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
-[![Discord](https://img.shields.io/badge/Discord-000.svg?&logo=discord&logoColor=235865F2)](https://discord.com/users/873689768309977239)
-[![X](https://img.shields.io/badge/X-000.svg?&logo=X&logoColor=23000000)](https://x.com/onlybugs_)
 
 #### Open to new opportunities to grow in the field, whether in Spanish, English, or Portuguese
 
