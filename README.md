@@ -20,8 +20,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-000.svg?&logo=express&logoColor=%23404d59)
 
 ### Socials
-[![Gmail](https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836)](mailto:mansillajoseph@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000.svg?&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/josephthomansilla/)
+[![Protonmail](https://img.shields.io/badge/Proton%20Mail-000?&logo=protonmail&logoColor=6D4AFF)](mailto:mansillajoseph@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=)](https://linkedin.com/in/josephthomansilla/)
 [![Website](https://img.shields.io/badge/Website-000.svg?&logo=googlechrome&logoColor=4285F4)](https://josephmansilla.github.io/portfolio/)
 
 Systems Information Engineering student @ UTN FRBA and Teaching Assistant for Programming Paradigms Class. Passionate about software engineering, with a strong interest in system design, architecture, and building maintainable solutions. Known for continuous learning, perseverance, and a proactive approach to solving complex problems.
