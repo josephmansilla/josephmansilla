@@ -21,7 +21,8 @@
 
 ### Socials
 [![Gmail](https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836)](mailto:mansillajoseph@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?&logo=linkedin&logoColor=230077B5)](https://linkedin.com/in/josephthomansilla/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000.svg?&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/josephthomansilla/)
+[![Website](https://img.shields.io/badge/Website-000.svg?&logo=googlechrome&logoColor=4285F4)](https://josephmansilla.github.io/portfolio/)
 
 Systems Information Engineering student @ UTN FRBA and Teaching Assistant for Programming Paradigms Class. Passionate about software engineering, with a strong interest in system design, architecture, and building maintainable solutions. Known for continuous learning, perseverance, and a proactive approach to solving complex problems.
 
